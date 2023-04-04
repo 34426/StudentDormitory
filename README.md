@@ -1,5 +1,7 @@
 # 学校宿舍管理系统
 
+### 使用不同技术栈的相同项目 ：[java+Servlet+JSP+MySQL宿舍管理系统](https://github.com/34426/dormitory-management-system)
+
 #### 有问题，或者不会调试运行的同学, 可以添加微信（备注项目）：xzxj0206
 
 ![img.png](imgs/img.png)
