@@ -3,11 +3,9 @@
 ### 使用不同技术栈的相同项目 ：[java+Servlet+JSP+MySQL宿舍管理系统](https://github.com/34426/dormitory-management-system)
 
 
-### 有问题，或者需要协助调试运行项目的, 可以加QQ：2529519551，或者微信 ：xzxj0206 注明项目，“git+项目名称” ，如：“git学生宿舍管理系统”
-
+### 9.9￥ 获取完整源码+sql，需要加Q：3577148218 ,备用Q: 3808981644
+### 有问题，或者需要协助调试运行项目的也可联系
 ### 更多项目： https://github.com/34426?tab=repositories
-
-
 
 ## 一、介绍
 
@@ -67,3 +65,7 @@ springboot+vue宿舍管理系统
 
 ![img_17.png](imgs/img_17.png)
 
+### 9.9￥ 获取完整源码+sql，需要加Q：3577148218 ,备用Q: 3808981644
+### 有问题，或者需要协助调试运行项目的也可联系
+
+![img.png](img.png)
