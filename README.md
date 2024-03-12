@@ -3,13 +3,13 @@
 ### 使用不同技术栈的相同项目 ：[java+Servlet+JSP+MySQL宿舍管理系统](https://github.com/34426/dormitory-management-system)
 
 
-### 9.9￥ 获取完整源码+sql，需要加Q：3577148218 ,备用Q: 3808981644
+### 9.9￥ 获取完整源码+sql，附赠8800字论文参考，需要加Q：3577148218 ,备用Q: 3808981644
 ### 有问题，或者需要协助调试运行项目的也可联系
 ### 更多项目： https://github.com/34426?tab=repositories
 
 ## 一、介绍
 
-springboot+vue宿舍管理系统
+基于springboot+vue的前后端宿舍管理系统
 
 ## 二、软件架构
 
@@ -17,7 +17,14 @@ springboot+vue宿舍管理系统
 
 2.  后端：SpringBoot、Mybatis-Plus
 
-## 三、系统运行界面
+## 三、附赠8800字论文参考
+
+![img_1.png](imgs/img22.png)
+
+![img_2.png](imgs/img23.png)
+
+
+## 四、系统运行界面
 
 ### 1、前端
 
@@ -65,7 +72,7 @@ springboot+vue宿舍管理系统
 
 ![img_17.png](imgs/img_17.png)
 
-### 9.9￥ 获取完整源码+sql，需要加Q：3577148218 ,备用Q: 3808981644
+### 9.9￥ 获取完整源码+sql，附赠8800字论文参考，需要加Q：3577148218 ,备用Q: 3808981644
 ### 有问题，或者需要协助调试运行项目的也可联系
 
-![img.png](img.png)
+![img.png](imgs/img21.png)
